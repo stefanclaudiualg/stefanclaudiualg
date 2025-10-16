@@ -1,5 +1,5 @@
 # Stefan Claudiu AL-Gareeb
-## Estudiante de [Cuatrovientos] (https://cuatrovientos.org)
+## Estudiante de [Cuatrovientos](https://cuatrovientos.org)
 
 **Hola!** Bienvenido a mi repositorio de codigo.
 
